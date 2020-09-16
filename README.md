@@ -6,6 +6,6 @@ klonlamak için:
 
 kullanılan teknolojiler:
 
-html, css,javascript
+html, css, bootstrap, javascript
 
 Form validation library kullanılmadı
